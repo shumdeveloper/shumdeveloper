@@ -20,16 +20,17 @@
 ![Bare-Metal](https://img.shields.io/badge/Bare--Metal-%23000000.svg?style=flat&logo=linuxfoundation&logoColor=white)
 ![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-%23000000.svg?style=flat&logo=linux&logoColor=white)
 ![Yocto](https://img.shields.io/badge/Yocto-%23000000.svg?style=flat&logo=yocto&logoColor=white)
+
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793d1.svg?style=flat&logo=archlinux&logoColor=white)
 ![Systemd](https://img.shields.io/badge/Systemd-%23000000.svg?style=flat&logo=linux&logoColor=white)
 ![Shell](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot%20OS-%2316A085.svg?style=flat&logo=linux&logoColor=white)
-
 ![Custom Distro](https://img.shields.io/badge/Custom%20Linux%20Distro-%23007ACC.svg?style=flat&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=flat&logo=swift&logoColor=white)
@@ -64,23 +65,24 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=googlecloud&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-%2300F5D7.svg?style=flat&logo=supabase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST%20API-%23FF6F00.svg?style=flat&logo=rest&logoColor=white)
+
 ![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat&logo=graphql&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-%2300505F.svg?style=flat&logo=grpc&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
-
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-%23946E94.svg?style=flat&logo=zsh&logoColor=white)
+
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23FF0000.svg?style=flat&logo=fortinet&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-%23007ACC.svg?style=flat&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-%23FF0000.svg?style=flat&logo=metasploit&logoColor=white)
-
 ![Nmap](https://img.shields.io/badge/Nmap-%2300C6FF.svg?style=flat&logo=nmap&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-%2300C853.svg?style=flat&logo=tensorflow&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
+
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23004040.svg?style=flat&logo=scikitlearn&logoColor=white)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-%23000000.svg?style=flat&logo=ida&logoColor=white)
 ![IDA Pro](https://img.shields.io/badge/IDA%20Pro-%23FF5C00.svg?style=flat&logo=ida&logoColor=white)
