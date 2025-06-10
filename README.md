@@ -22,6 +22,7 @@ You have found SHUM's private profile where he keeps his non-public work
 ![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-%23000000.svg?style=flat&logo=linux&logoColor=white)
 ![Yocto](https://img.shields.io/badge/Yocto-%23000000.svg?style=flat&logo=yocto&logoColor=white)
 
+![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793d1.svg?style=flat&logo=archlinux&logoColor=white)
 ![Systemd](https://img.shields.io/badge/Systemd-%23000000.svg?style=flat&logo=linux&logoColor=white)
 ![Shell](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white)
@@ -36,11 +37,27 @@ You have found SHUM's private profile where he keeps his non-public work
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+
+![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=flat&logo=tailwindcss&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
@@ -85,6 +102,7 @@ You have found SHUM's private profile where he keeps his non-public work
 ![AI/ML](https://img.shields.io/badge/AI%2FML-%2300C853.svg?style=flat&logo=tensorflow&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23004040.svg?style=flat&logo=scikitlearn&logoColor=white)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-%23000000.svg?style=flat&logo=ida&logoColor=white)
