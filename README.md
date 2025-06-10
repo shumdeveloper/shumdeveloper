@@ -98,3 +98,9 @@
 ![Agile](https://img.shields.io/badge/Agile-%2300B8D9.svg?style=flat&logo=agile&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=flat&logo=jira&logoColor=white)
 ![Linear](https://img.shields.io/badge/Linear-%23000000.svg?style=flat&logo=linear&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%230066CC.svg?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%230072B1.svg?style=flat&logo=seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%2336BADF.svg?style=flat&logo=plotly&logoColor=white)
+![Gnuplot](https://img.shields.io/badge/Gnuplot-%2300FF00.svg?style=flat&logo=gnuplot&logoColor=white)
+![Wolfram Mathematica](https://img.shields.io/badge/Wolfram-Mathematica-%23DD1100.svg?style=flat&logo=wolfram&logoColor=white)
