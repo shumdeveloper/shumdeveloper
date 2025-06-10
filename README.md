@@ -1,4 +1,5 @@
-## Hi there 👋You have found SHUM's private profile where he keeps his non-public work
+## Hi there 👋
+You have found SHUM's private profile where he keeps his non-public work
 
 ## 🚀 Tech Stack 
 
