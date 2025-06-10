@@ -103,4 +103,5 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-%230072B1.svg?style=flat&logo=seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%2336BADF.svg?style=flat&logo=plotly&logoColor=white)
 ![Gnuplot](https://img.shields.io/badge/Gnuplot-%2300FF00.svg?style=flat&logo=gnuplot&logoColor=white)
+
 ![Wolfram Mathematica](https://img.shields.io/badge/Wolfram-Mathematica-%23DD1100.svg?style=flat&logo=wolfram&logoColor=white)
