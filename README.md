@@ -1,16 +1,71 @@
-## Hi there 👋
+## Hi there 👋You have found SHUM's private profile where he keeps his non-public work
 
-<!--
-**shumdeveloper/shumdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tech Stack
 
-Here are some ideas to get you started:
+![Physics](https://img.shields.io/badge/Physics-%23007ACC.svg?style=flat&logo=databricks&logoColor=white)
+![Mathematics](https://img.shields.io/badge/Mathematics-%23FF6F00.svg?style=flat&logo=gnu&logoColor=white)
+![Scientific Computing](https://img.shields.io/badge/Scientific%20Computing-%230C55A5.svg?style=flat&logo=scipy&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-%234285F4.svg?style=flat&logo=espressif&logoColor=white)
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-%23007396.svg?style=flat&logo=espressif&logoColor=white)
+![Espressif](https://img.shields.io/badge/Espressif-%23ED1C24.svg?style=flat&logo=espressif&logoColor=white)
+![Texas Instruments](https://img.shields.io/badge/Texas%20Instruments-%23D00000.svg?style=flat&logo=texasinstruments&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-%230C55A5.svg?style=flat&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white)
+![Optics](https://img.shields.io/badge/Optics-%238C52FF.svg?style=flat&logo=googlescholar&logoColor=white)
+![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-%23000000.svg?style=flat&logo=linux&logoColor=white)
+![Yocto](https://img.shields.io/badge/Yocto-%23000000.svg?style=flat&logo=yocto&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793d1.svg?style=flat&logo=archlinux&logoColor=white)
+![Systemd](https://img.shields.io/badge/Systemd-%23000000.svg?style=flat&logo=linux&logoColor=white)
+![Shell](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=flat&logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=flat&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=flat&logo=sass&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![NativeScript](https://img.shields.io/badge/NativeScript-%235454F7.svg?style=flat&logo=nativescript&logoColor=white)
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-%23999999.svg?style=flat&logo=apple&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-%23000000.svg?style=flat&logo=deno&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23F2E9E1.svg?style=flat&logo=bun&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%2300487C.svg?style=flat&logo=opencv&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%231677BB.svg?style=flat&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF3300.svg?style=flat&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-%23005799.svg?style=flat&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-%23000000.svg?style=flat&logo=gnu&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-%23007ACC.svg?style=flat&logo=owasp&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot%20OS-%2316A085.svg?style=flat&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-%23657DBD.svg?style=flat&logo=linuxcontainers&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%23000000.svg?style=flat&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232C974B.svg?style=flat&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-%23239120.svg?style=flat&logo=scrumalliance&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-%2300B8D9.svg?style=flat&logo=agile&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=flat&logo=jira&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-%23000000.svg?style=flat&logo=linear&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
